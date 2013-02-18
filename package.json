@@ -6,12 +6,18 @@
   "scripts": {
     "test": "node_modules/mocha/bin/mocha"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AgileDiagnosis/bight.git"
+  },
   "keywords": [
     "streams",
     "loop",
     "knot",
     "compose"
+  ],
+  "contributors": [
+    "jden <jason@denizac.org>"
   ],
   "author": "Agile Diagnosis <hello@agilediagnosis.com>",
   "license": "MIT",
