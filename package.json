@@ -1,0 +1,25 @@
+{
+  "name": "bight",
+  "version": "0.1.0",
+  "description": "inject and compose through streams into a pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "repository": "",
+  "keywords": [
+    "streams",
+    "loop",
+    "knot",
+    "compose"
+  ],
+  "author": "Agile Diagnosis <hello@agilediagnosis.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.8.1",
+    "chai": "~1.5.0",
+    "split": "~0.2.1",
+    "toupper": "~0.1.0",
+    "through": "~2.2.0"
+  }
+}
